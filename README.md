@@ -19,7 +19,7 @@ I build open-source tools for the **AI/LLM developer stack** — retrieval evalu
 - **7 published projects** · 178 tests passing
 - **1 medium-complexity** project shipped to v1.0 (ragbench)
 - **1 external PR(s)** to upstream open source
-- **2/7 repos** with CI (GitHub Actions)
+- **7/7 repos** with CI (GitHub Actions)
 - Categories: RAG, agent-safety, agents, devtools, mcp, prompt-engineering
 - Languages: Python, TypeScript
 
