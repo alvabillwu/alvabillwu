@@ -7,6 +7,7 @@ I build open-source tools for the **AI/LLM developer stack** — retrieval evalu
 | Project | Category | Lang | What it does | Tests |
 |---------|----------|------|--------------|:-----:|
 | [`ragbench`](https://github.com/alvabillwu/ragbench) | 📊 RAG | Python | RAG Benchmark Lite | ![tests](https://img.shields.io/badge/tests-68-success) |
+| [`judgekit`](https://github.com/alvabillwu/judgekit) | 🧠 AI/LLM | Python | reusable LLM-as-judge harness: rubrics, pluggable judges, ensemblin… | ![tests](https://img.shields.io/badge/tests-63-success) |
 | [`tokencost`](https://github.com/alvabillwu/tokencost) | 🛠️ devtools | Python | LLM token counter & cost calculator across 20+ models | ![tests](https://img.shields.io/badge/tests-11-success) |
 | [`mcp-probe`](https://github.com/alvabillwu/mcp-probe) | 🛠️ devtools | Python | probe and inspect any MCP server from the CLI | ![tests](https://img.shields.io/badge/tests-8-success) |
 | [`promptdrift`](https://github.com/alvabillwu/promptdrift) | 🔄 prompt-engineering | Python | detect drift between LLM prompt versions, with breaking-drift CI gates | ![tests](https://img.shields.io/badge/tests-31-success) |
@@ -17,11 +18,11 @@ I build open-source tools for the **AI/LLM developer stack** — retrieval evalu
 
 ## 📈 At a glance
 
-- **8 published projects** · 201 tests passing
-- **1 medium-complexity** project shipped to v1.0 (ragbench)
+- **9 published projects** · 264 tests passing
+- **2 medium-complexity** project shipped to v1.0 (ragbench)
 - **1 external PR(s)** to upstream open source
-- **8/8 repos** with CI (GitHub Actions)
-- Categories: RAG, agent-safety, agents, devtools, mcp, prompt-engineering
+- **9/9 repos** with CI (GitHub Actions)
+- Categories: AI/LLM, RAG, agent-safety, agents, devtools, mcp, prompt-engineering
 - Languages: Python, TypeScript
 
 ## 🧭 How this work is produced
