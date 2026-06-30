@@ -13,13 +13,14 @@ I build open-source tools for the **AI/LLM developer stack** — retrieval evalu
 | [`ai-supply-guard`](https://github.com/alvabillwu/ai-supply-guard) | 🛡️ agent-safety | TypeScript | audit npm deps for AI-specific supply-chain attacks | ![tests](https://img.shields.io/badge/tests-19-success) |
 | [`agentlog`](https://github.com/alvabillwu/agentlog) | 🤖 agents | Python | structured logging + replay for AI agent runs (JSONL) | ![tests](https://img.shields.io/badge/tests-21-success) |
 | [`mcpindex`](https://github.com/alvabillwu/mcpindex) | 🔌 mcp | TypeScript | searchable index of MCP servers | ![tests](https://img.shields.io/badge/tests-20-success) |
+| [`promptlab`](https://github.com/alvabillwu/promptlab) | 🔄 prompt-engineering | TypeScript | self-hosted web playground to A/B-test LLM prompt variants side-by-… | ![tests](https://img.shields.io/badge/tests-23-success) |
 
 ## 📈 At a glance
 
-- **7 published projects** · 178 tests passing
+- **8 published projects** · 201 tests passing
 - **1 medium-complexity** project shipped to v1.0 (ragbench)
 - **1 external PR(s)** to upstream open source
-- **7/7 repos** with CI (GitHub Actions)
+- **8/8 repos** with CI (GitHub Actions)
 - Categories: RAG, agent-safety, agents, devtools, mcp, prompt-engineering
 - Languages: Python, TypeScript
 
