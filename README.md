@@ -15,13 +15,14 @@ I build open-source tools for the **AI/LLM developer stack** — retrieval evalu
 | [`agentlog`](https://github.com/alvabillwu/agentlog) | 🤖 agents | Python | structured logging + replay for AI agent runs (JSONL) | ![tests](https://img.shields.io/badge/tests-21-success) |
 | [`mcpindex`](https://github.com/alvabillwu/mcpindex) | 🔌 mcp | TypeScript | searchable index of MCP servers | ![tests](https://img.shields.io/badge/tests-20-success) |
 | [`promptlab`](https://github.com/alvabillwu/promptlab) | 🔄 prompt-engineering | TypeScript | self-hosted web playground to A/B-test LLM prompt variants side-by-… | ![tests](https://img.shields.io/badge/tests-23-success) |
+| [`synthqa`](https://github.com/alvabillwu/synthqa) | 📊 RAG | Python | generate QA eval datasets from a corpus with adversarial distractors | ![tests](https://img.shields.io/badge/tests-22-success) |
 
 ## 📈 At a glance
 
-- **9 published projects** · 264 tests passing
+- **10 published projects** · 286 tests passing
 - **2 medium-complexity** project shipped to v1.0 (ragbench)
 - **1 external PR(s)** to upstream open source
-- **9/9 repos** with CI (GitHub Actions)
+- **10/10 repos** with CI (GitHub Actions)
 - Categories: AI/LLM, RAG, agent-safety, agents, devtools, mcp, prompt-engineering
 - Languages: Python, TypeScript
 
