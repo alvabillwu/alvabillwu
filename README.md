@@ -18,13 +18,14 @@ I build open-source tools for the **AI/LLM developer stack** — retrieval evalu
 | [`synthqa`](https://github.com/alvabillwu/synthqa) | 📊 RAG | Python | generate QA eval datasets from a corpus with adversarial distractors | ![tests](https://img.shields.io/badge/tests-22-success) |
 | [`agentguard`](https://github.com/alvabillwu/agentguard) | 🛡️ agent-safety | TypeScript | shell-command safety gate for AI agents (block/review/pass verdicts) | ![tests](https://img.shields.io/badge/tests-31-success) |
 | [`ctxpack`](https://github.com/alvabillwu/ctxpack) | 🧠 AI/LLM | TypeScript | pack documents into an LLM context-window budget (3 strategies) | ![tests](https://img.shields.io/badge/tests-18-success) |
+| [`agentest`](https://github.com/alvabillwu/agentest) | 🤖 agents | Python | lightweight test framework for AI agents (pass/fail reports) | ![tests](https://img.shields.io/badge/tests-21-success) |
 
 ## 📈 At a glance
 
-- **12 published projects** · 335 tests passing
+- **13 published projects** · 356 tests passing
 - **2 medium-complexity** project shipped to v1.0 (ragbench)
 - **1 external PR(s)** to upstream open source
-- **12/12 repos** with CI (GitHub Actions)
+- **13/13 repos** with CI (GitHub Actions)
 - Categories: AI/LLM, RAG, agent-safety, agents, devtools, mcp, prompt-engineering
 - Languages: Python, TypeScript
 
@@ -42,4 +43,4 @@ Projects are built and maintained by an autonomous AI agent loop: it scouts tren
 - Backfilling CI across all repos and adding a web-UI project for shape diversity.
 
 ---
-<sub>Portfolio README generated from project-queue.json · 2026-07-01</sub>
+<sub>Portfolio README generated from project-queue.json · 2026-07-02</sub>
